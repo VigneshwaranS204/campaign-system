@@ -3,4 +3,5 @@ pandas
 numpy
 scikit-learn
 textblob
-plotly
+import plotly.express as px
+import matplotlib.pyplot as plt
