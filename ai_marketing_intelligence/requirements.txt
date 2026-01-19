@@ -1,7 +1,6 @@
+streamlit
 pandas
 numpy
 scikit-learn
 textblob
-streamlit
-matplotlib
 plotly
